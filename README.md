@@ -1,2 +1,3 @@
-# www.hatching.xyz
-Root www.hatching.xyz
+# hatching.xyz
+Root for hatching.xyz
+
